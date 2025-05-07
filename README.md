@@ -39,6 +39,7 @@
 
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/IT-Bug/IT-Bug/main/banner.gif?raw=true" alt="Banner" width="100%" />
  ![Alt-Text](https://raw.githubusercontent.com/IT-Bug/IT-Bug/main/banner.gif)
 </p>
 
