@@ -1,5 +1,9 @@
 # 👋 Hi, I’m @IT-Bug
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IT-Bug/IT-Bug/main/banner.gif?raw=true" alt="Banner" width="100%" />
+</p>
+
 ## 🧭 About Me
 - 🌱 I’m currently learning the basics of **HTML**, **CSS**, and **JavaScript** – step by step.
 - 🎯 My goal is to build simple and clean websites while improving my skills.
@@ -36,12 +40,6 @@
 - 🐙 GitHub: [@IT-Bug](https://github.com/IT-Bug)
 
 ---
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IT-Bug/IT-Bug/main/banner.gif?raw=true" alt="Banner" width="100%" />
- ![Alt-Text](https://raw.githubusercontent.com/IT-Bug/IT-Bug/main/banner.gif)
-</p>
 
 ## 👁️ Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=IT-Bug&label=Profile%20views&color=0e75b6&style=flat)
