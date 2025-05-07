@@ -37,7 +37,8 @@
 
 ---
 
-<!-- Optional Banner -->
+
 <p align="center">
-  <img src="https://github.com/IT-Bug/IT-Bug/blob/main/assets/banner.gif?raw=true" alt="Banner" width="100%" />
+  <img src="https://github.com/IT-Bug/IT-Bug/blob/main/assets/banner.gif?raw=true" alt="Banner" width="100%">
 </p>
+
