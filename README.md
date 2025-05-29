@@ -24,7 +24,7 @@
 - 🔜 Build my first interactive JavaScript mini-projects
 
 ## 💼 Projects (Work in Progress)
-- [💡 Website Project: Book-Store](#)
+- [💡 Website Project: BestellApp](#)
 - [🧪 Practice Page using HTML, CSS & JS](#)
 
 ## 📊 GitHub Stats
